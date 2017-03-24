@@ -3,9 +3,6 @@
   "version": "0.0.2",
   "description": "A JavaScript port of the Unix utility 'true'. Returns the Boolean value `true`",
   "main": "index.js",
-  "scripts": {
-    "test": "jake test"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/mde/true.git"
@@ -16,15 +13,9 @@
     "Boolean"
   ],
   "author": "mde",
-  "license": {
-    "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0"
-  },
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/mde/true/issues"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "jake": "0.7.x"
-  }
+  "dependencies": {}
 }
